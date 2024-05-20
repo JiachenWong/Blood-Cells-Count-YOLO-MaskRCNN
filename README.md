@@ -5,6 +5,7 @@
 
 ### 程序主要内容：
 （1）输入：在程序主窗口输入所要处理的血细胞图片路径
+\n
  <img width="268" alt="image" src="https://github.com/JiaChenWong/Blood-Cells-Count-YOLO-MaskRCNN/assets/115158062/96fae405-0058-491b-9985-9f27f9c7496e">
 
 （2）YOLOv5目标检测：将已经训练好的权重文件和预测代码嵌入程序中，点击按钮【YOLO】完成目标检测操作，并生成带有Bounding boxes的图片，不同类别血细胞数量信息将会显示在窗口右侧。
