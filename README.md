@@ -20,5 +20,5 @@
 <img width="302" alt="image" src="https://github.com/JiaChenWong/Blood-Cells-Count-YOLO-MaskRCNN/assets/115158062/25898723-ac30-4bc1-988c-9bf86b6e8fb8">  
 
 
-<font color=Blue>使用前请修改路径</font>
 
+<font color=gray size=72>color=gray</font>
