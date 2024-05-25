@@ -17,6 +17,9 @@
 
 （3）粘连细胞实例分割：将训练好的Mask R-CNN权重以及相关文件嵌入，点击【Mask】按钮，对之前检测到的每一个RBC2区域进行实例分割，并且可以查看每一个区域的实例分割带掩码图片，比如下图4个按钮对应4个重叠的红细胞，点击【0】即可查看第1个重叠红细胞实例分割后的图片。  
 
-<img width="302" alt="image" src="https://github.com/JiaChenWong/Blood-Cells-Count-YOLO-MaskRCNN/assets/115158062/25898723-ac30-4bc1-988c-9bf86b6e8fb8">  
+<img width="302" alt="image" src="https://github.com/JiaChenWong/Blood-Cells-Count-YOLO-MaskRCNN/assets/115158062/25898723-ac30-4bc1-988c-9bf86b6e8fb8">    
 
-训练好的YOLOv5s模型权重文件是
+
+<img width="1027" alt="截屏2024-05-25 13 34 43" src="https://github.com/JiachenWong/Blood-Cells-Count-YOLO-MaskRCNN/assets/115158062/6e863a8d-0b12-4b28-9dcc-beef88010acd">
+
+
