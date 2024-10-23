@@ -14,8 +14,8 @@ After adding the full convolutional network, the model will automatically assign
 <img width="576" alt="截屏2024-10-23 16 12 03" src="https://github.com/user-attachments/assets/d916d167-0e4e-4f33-865d-10e81b74d47d">
 
 （2）加入颜色注意力的优势：  
-经过实验对比，加入颜色注意力相比加入常用的**<font color=blue>SENet通道注意力机制</font>**，得到的mAP@0.5差距并不大，但加入颜色注意力机制的YOLOv5模型训练时间更短（如下300轮实验数据）    
-After experimental comparison, adding color attention is not much different from adding the commonly used **<font color=blue>SENet channel attention mechanism</font>** in terms of mAP@0.5, but the YOLOv5 model with the color attention mechanism takes less time to train (as shown in the following 300 rounds of experimental data)
+经过实验对比，加入颜色注意力相比加入常用的**<font color=#0000FF>SENet通道注意力机制</font>**，得到的mAP@0.5差距并不大，但加入颜色注意力机制的YOLOv5模型训练时间更短（如下300轮实验数据）    
+After experimental comparison, adding color attention is not much different from adding the commonly used **<font color=#0000FF>SENet channel attention mechanism</font>** in terms of mAP@0.5, but the YOLOv5 model with the color attention mechanism takes less time to train (as shown in the following 300 rounds of experimental data)
 <img width="480" alt="截屏2024-10-23 16 08 54" src="https://github.com/user-attachments/assets/38eac34e-8013-46cd-8c79-e787f19be92a">
 <img width="728" alt="截屏2024-10-23 16 09 22" src="https://github.com/user-attachments/assets/3a5c5b8c-2747-4ff7-9817-a510c6c2792d">
 
